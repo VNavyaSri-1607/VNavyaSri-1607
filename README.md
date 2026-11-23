@@ -24,9 +24,8 @@
 
 ### 📌 Featured Projects
 
-- **LearnMate AI** – Personalized Learning Path Recommender
 - **Smart Resource Management System** – Peer-to-peer resource sharing
-- **Android Applications** – Apps developed using Kotlin
+- **LearnMate AI** – Personalized Learning Path Recommender
 
 ### 📊 GitHub Statistics
 
