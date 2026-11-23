@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**VNavyaSri-1607/VNavyaSri-1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm a Developer</h1>
+<h3 align="center">Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Learning+DSA;Building+Projects;Exploring+Android+Development;Improving+Every+Day" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Student passionate about technology
+- 🌱 Currently learning Data Structures and Algorithms
+- 💻 Interested in Android Development and Web Development
+- 🚀 Building projects to improve my skills
+- 🎯 Goal: Become a skilled software developer
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,kotlin,html,css,js,react,git,github,androidstudio" />
+</p>
+
+### 📌 Featured Projects
+
+- **LearnMate AI** – Personalized Learning Path Recommender
+- **Smart Resource Management System** – Peer-to-peer resource sharing
+- **Android Applications** – Apps developed using Kotlin
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+### 🔥 My Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+### 🤝 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile
+- Email: Add your professional email
