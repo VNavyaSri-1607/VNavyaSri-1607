@@ -31,20 +31,20 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VNavyaSri-1607&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNavyaSri-1607&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🔥 My Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VNavyaSri-1607&theme=tokyonight" />
 </p>
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your professional email
+- LinkedIn: linkedin.com/in/navyasri-vanaparthi-4346b732b
+- Email: sriammu1607@gmail.com
